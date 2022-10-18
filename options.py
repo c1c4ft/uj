@@ -48,9 +48,9 @@ class Option:
 
 
 
-opt=Option("c",1, 100, "20221215")
-print(Option.payoff(opt, 120))
-print(Option.calcPrice(opt, 110,0.5, 0.3,0.04))
+#opt=Option("c",1, 100, "20221215")
+#print(Option.payoff(opt, 120))
+#print(Option.calcPrice(opt, 110,0.5, 0.3,0.04))
 
 
 
